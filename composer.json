@@ -1,1 +1,6 @@
-
+{
+  "name": "mi-api/php",
+  "description": "API REST simple en PHP para Render",
+  "require": {},
+  "license": "MIT"
+}
